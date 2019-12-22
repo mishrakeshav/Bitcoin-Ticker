@@ -1,3 +1,3 @@
 # Bitcoin-Ticker
 
-<img src = "SnapShots/HOME.png">
+<img src = "SnapShots/HOME.PNG">
